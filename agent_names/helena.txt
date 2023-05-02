@@ -1,5 +1,5 @@
 •	mmdd:0305
 •	rn1:3
-•	rn2: 1234
+•	rn2: 13
 •	animal: narwhal
 colour: green
