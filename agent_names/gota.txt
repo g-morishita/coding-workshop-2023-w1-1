@@ -1,0 +1,4 @@
+mmdd: 1105
+rn1: 381
+rn2: 1227
+animal: rabbit
