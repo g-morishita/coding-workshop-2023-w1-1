@@ -1,6 +1,5 @@
 colour: red
 mmdd: 1109
->>>>>>> upstream/main
 rn1: 381
 rn2: 1227
 animal: rabbit
