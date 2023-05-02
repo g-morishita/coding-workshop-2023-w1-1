@@ -1,4 +1,4 @@
 mmdd: 0502
 rn1: 3
-rn2: 1003
+rn2: 2
 animal: hedgehog
