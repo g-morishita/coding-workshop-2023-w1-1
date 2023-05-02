@@ -1,5 +1,5 @@
 color: red
-mmdd: 0502
+mmdd: 0312
 rn1: 3
 rn2: 1003
 animal: hedgehog

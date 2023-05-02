@@ -1,4 +1,5 @@
-mmdd: 1224
+colour: red
+mmdd: 0318
 rn1: 378
 rn2: 1453
 animal: octopus
