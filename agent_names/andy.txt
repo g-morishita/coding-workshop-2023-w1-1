@@ -1,6 +1,6 @@
-colour: Yellow
-mmdd: 1021
+colour: red
+mmdd: 0303
 rn1: 789
-rn2: 1234
+rn2: 19
 animal: dog
 
