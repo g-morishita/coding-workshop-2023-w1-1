@@ -1,0 +1,4 @@
+mmdd:1507
+rn1: 811
+rm2: 1337
+animal: octopus
