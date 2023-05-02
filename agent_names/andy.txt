@@ -1,6 +1,7 @@
-colour: Yellow
+<<<<<<< HEAD
+colour: red
 mmdd: 1029
 rn1: 789
-rn2: 1234
+rn2: 19
 animal: dog
 

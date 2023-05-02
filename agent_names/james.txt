@@ -1,4 +1,5 @@
+colour: red
 mmdd: 1229
 rn1: 378
-rn2: 1453
+rn2: 17
 animal: octopus
