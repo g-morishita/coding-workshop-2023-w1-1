@@ -1,5 +1,6 @@
+<<<<<<< HEAD
 colour: red
-mmdd: 0303
+mmdd: 1029
 rn1: 789
 rn2: 19
 animal: dog

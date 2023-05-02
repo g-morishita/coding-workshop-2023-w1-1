@@ -1,5 +1,5 @@
-colour: red
-mmdd: 0321
+colour: green
+mmdd: 1119
 rn1: 314
 rn2: 5
 animal: chameleon
